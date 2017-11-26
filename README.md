@@ -1,2 +1,0 @@
-# DjangogirlsFirstProgect
-My first blog
